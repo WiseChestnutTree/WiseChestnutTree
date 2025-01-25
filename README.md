@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/TARGET_PROGRAM.png">
 </p>
 <p align="center">
-  <img width="350" height="220" src="https://github.com/WiseChestnutTree/shotPic/blob/main/TARGET_DB.png">
+  <img width="350" height="300" src="https://github.com/WiseChestnutTree/shotPic/blob/main/TARGET_DB.png">
   <img width="350" height="400" src="https://github.com/WiseChestnutTree/shotPic/blob/main/TARGET_PANNEL.png">
 </p>
 
