@@ -51,18 +51,18 @@ Here are some ideas to get you started:
 
 <br><br>
 <p>
-  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/EYE_Food.png">
+  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/Eye_Food.png">
   <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/Eye_Drinks.png">
 </p>
 
 <p>
-  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/EYE_Receipt.png">
-  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/EYE_FList.png">
+  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/Eye_Receipt.png">
+  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/Eye_FList.png">
 </p>
 
 <p>
-  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/EYE_alarm.png">
-  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/EYE_Voice.png">
+  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/Eye_alarm.png">
+  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/Eye_Voice.png">
 </p>
 
 
