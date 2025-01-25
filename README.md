@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 ☉ 네이버 ocr 기능 및 사물 인식 기능을 통한 상품 구별
 <br>
 ☉ 상품에 대한 내부 데이터를 통해 유통기한 분류
+<br>
+✫ OCR기능을 통해 나오는 비정형 값에서 
 
 <br><br>
 <h2>🥤 편한 시선</h2>
