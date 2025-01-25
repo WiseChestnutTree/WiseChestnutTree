@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 <h2>🥤 편한 시선</h2>
 ❖ 경로 알고리즘과 딥러닝 기반의 시각 장애인 전용 편의점 어플리케이션
 <br>
-✦ [2024년 프로보노 ICT멘토링 공모전] : https://www.youtube.com/watch?v=PeW2smV4ZcM
+✦ [프로보노 공모전] : https://www.youtube.com/watch?v=PeW2smV4ZcM
 <br>
 ✦ 
