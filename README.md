@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/Eye_alarm.png">
-  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/Eye_Voice.png">
+  <img width="350" height="175" src="https://github.com/WiseChestnutTree/shotPic/blob/main/Eye_alarm.png">
+  <img width="350" height="175" src="https://github.com/WiseChestnutTree/shotPic/blob/main/Eye_Voice.png">
 </p>
 
 
