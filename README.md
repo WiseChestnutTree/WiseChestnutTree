@@ -48,9 +48,11 @@ Here are some ideas to get you started:
 ❖ 경로 알고리즘과 딥러닝 기반의 시각 장애인 전용 편의점 어플리케이션
 <br>
 ✦ [프로보노 공모전] : https://www.youtube.com/watch?v=PeW2smV4ZcM
-<br>
+<br><br>
+
 <p>
-  <img src="https://github.com/WiseChestnutTree/shotPic/blob/main/TARGET_USER.png"/10/10>
+  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/TARGET_USER.png">
+  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/TARGET_PROGRAM.png">
 </p>
 
 ✦ 
