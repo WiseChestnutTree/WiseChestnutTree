@@ -50,6 +50,23 @@ Here are some ideas to get you started:
 ✫ OCR기능을 통해 나오는 비정형 값에서 
 
 <br><br>
+<p>
+  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/EYE_Food.png">
+  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/EYE_Drinks.png">
+</p>
+
+<p>
+  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/EYE_Receipt.png">
+  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/EYE_FList.png">
+</p>
+
+<p>
+  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/EYE_alarm.png">
+  <img width="350" height="250" src="https://github.com/WiseChestnutTree/shotPic/blob/main/EYE_Voice.png">
+</p>
+
+
+<br><br>
 <h2>🥤 편한 시선</h2>
 ❖ 경로 알고리즘과 딥러닝 기반의 시각 장애인 전용 편의점 어플리케이션
 <br>
