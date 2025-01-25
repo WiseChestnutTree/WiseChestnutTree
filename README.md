@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 <br>
 ✦ [프로보노 공모전] : https://www.youtube.com/watch?v=PeW2smV4ZcM
 <br>
-![Image](https://github.com/user-attachments/assets/0bf4ed87-c310-4676-978c-51f655d5805e)
+![userTarget](WiseChestnutTree/shotPic/blob/main/TARGET_USER.png)
 ✦ 
