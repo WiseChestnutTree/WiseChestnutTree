@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 <br><br>
 <h2>🥤 Feel-Aisle</h2>
-<https://github.com/feel-the-aisle/Backend.git>
+경로 알고리즘과 딥러닝 기반의 시각 장애인 전용 편의점 어플리케이션 [feel-the-aisle](https://github.com/feel-the-aisle/Backend.git)
